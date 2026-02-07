@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const ProjectSchema = new mongoose.Schema({
   name: { type: String, required: true },
-  description: String,
+  description: { type: String, trim: true }, // Them trim de xoa khoang trang thua
 startDate: { type: Date, default: Date.now },
   deadline: Date,
   status: {
