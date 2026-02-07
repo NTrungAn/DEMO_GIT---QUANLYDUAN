@@ -1,3 +1,4 @@
+// User Model - Quan ly thong tin tai khoan
 const mongoose = require('mongoose');
 
 const UserSchema = new mongoose.Schema({
