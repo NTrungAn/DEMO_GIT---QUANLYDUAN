@@ -1,1 +1,6 @@
 # DEMO_GIT---QUANLYDUAN
+
+Nguyen Trung An - 2280600023
+Bui Thanh Vu - 2280603717
+Nguyen Xuan Duc - 2280600735
+Ho Van Hoai - 2280601008
